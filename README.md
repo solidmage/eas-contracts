@@ -442,3 +442,5 @@ The framework was inspired and adopted from [Bancor V3](https://github.com/banco
 ## License
 
 EAS is open source and distributed under the MIT License (see [`LICENSE`](./LICENSE)).
+
+Personal Fork for personal use
